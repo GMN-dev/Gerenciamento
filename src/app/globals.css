@@ -9,14 +9,17 @@
 }
 
 :root {
-  --primary-color: "#222831";
-  --secondary-color: "#1552F0";
-  --white-primary: "#FAFBFC";
-  --white-secondary: "#FFFFFF";
-  --white-grey: "#F2F2F2";
-  --grey: "#F2F2F2";
+  --primary-color: #222831;
+  --secondary-color: #1552F0;
+  --white-primary: #FAFBFC;
+  --white-secondary: #FFFFFF;
+  --white-grey: #DEDEDE;
+  --grey: #F2F2F2;
 }
 
+body{
+  background-color: var(--white-secondary);
+}
 
 @layer utilities {
   .text-balance {
