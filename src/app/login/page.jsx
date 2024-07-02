@@ -13,7 +13,7 @@ export default function Login(){
                 <input type="text" placeholder="usuário" className="w-96 rounded-lg bg-white-grey border-none" />
                 <input type="password" placeholder="senha" className="w-96 rounded-lg bg-white-grey border-none mt-2" />
             </div>
-            <button className="bg-highlight text-white p-3 rounded-lg flex items-center justify-center w-96 mt-6"> Acessar </button>
+            <button type="submit" className="bg-highlight text-white p-3 rounded-lg flex items-center justify-center w-96 mt-6"> Acessar </button>
         </section>
     </div>
     )

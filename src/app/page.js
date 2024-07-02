@@ -1,9 +1,13 @@
-import Login from "./login/page";
+'use client'
+import Header from "@/components/header";
 
 export default function Home() {
-  return (
-    <main >
-      <Login />
-    </main>
+  return (    
+    <>
+      <Header />
+      <main > 
+      
+      </main>
+    </>
   );
 }

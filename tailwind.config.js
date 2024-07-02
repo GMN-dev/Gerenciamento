@@ -18,7 +18,9 @@ module.exports = {
         "white-primary" : "var(--white-primary)",
         "white-secondary" : "var(--white-secondary)",
         "white-grey" : "var(--white-grey)",
-        "grey" : "var(--grey)"
+        "grey" : "var(--grey)",
+        "background-red": "#FFCFCF",
+        "placeholder" : "#A5A5A5"
       }
     },
   },
