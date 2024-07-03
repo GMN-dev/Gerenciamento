@@ -10,11 +10,11 @@ export default function Header(){
 
     console.log(user);
     return(<div className="flex">
-        <section className="h-screen">
-            <div className=" w-56 h-20 flex justify-center items-center border-2">
+        <section className="h-screen flex flex-col">
+            <div className=" w-56 h-20 flex justify-center items-center bg-white-primary border-2">
                 <Image src={logo}/>
             </div>
-            <div className="p-6 font-bold text-primary  h-screen bg-white-primary border-2 border-t-0">
+            <div className="p-6 font-bold text-primary flex-1 bg-white-primary border-2 border-t-0">
                 <h3 className="text-2xl">Menu</h3>
                 <ul className="mt-12 text-lg">
                     <a href=""><div className="flex items-center mb-10" ><Home/><li className="ml-2">Home</li></div></a>
@@ -30,7 +30,7 @@ export default function Header(){
                 <div className="flex justify-center items-center">
                     <Image src={user.photo ? user.photo : defaultPhoto} className="rounded-full w-14 h-14" />
                     <div className="ml-3 font-semibold text-primary">
-                        <h3>Olá <span className="text-highlight">{user.nome}</span></h3>
+                        <h3>Olá <span className="text-highlight">{user.nome}</span>,</h3>
                         <p>Bem vindo de volta!</p>
                     </div>
                 </div>  
