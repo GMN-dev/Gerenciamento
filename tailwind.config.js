@@ -20,7 +20,8 @@ module.exports = {
         "white-grey" : "var(--white-grey)",
         "grey" : "var(--grey)",
         "background-red": "#FFCFCF",
-        "placeholder" : "#A5A5A5"
+        "placeholder" : "#A5A5A5",
+        "body-bg" : "#F4F3F6"
       }
     },
   },

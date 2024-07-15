@@ -1,0 +1,51 @@
+[
+    {
+      "month": "Janeiro",
+      "maintenance": 45
+    },
+    {
+      "month": "Fevereiro",
+      "maintenance": 78
+    },
+    {
+      "month": "Março",
+      "maintenance": 32
+    },
+    {
+      "month": "Abril",
+      "maintenance": 59
+    },
+    {
+      "month": "Maio",
+      "maintenance": 21
+    },
+    {
+      "month": "Junho",
+      "maintenance": 88
+    },
+    {
+      "month": "Julho",
+      "maintenance": 13
+    },
+    {
+      "month": "Agosto",
+      "maintenance": 64
+    },
+    {
+      "month": "Setembro",
+      "maintenance": 99
+    },
+    {
+      "month": "Outubro",
+      "maintenance": 27
+    },
+    {
+      "month": "Novembro",
+      "maintenance": 56
+    },
+    {
+      "month": "Dezembro",
+      "maintenance": 34
+    }
+  ]
+  

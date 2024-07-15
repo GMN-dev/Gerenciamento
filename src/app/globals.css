@@ -19,6 +19,11 @@ input:focus {
   outline: none;
 }
 
+main{
+  height: calc(100% - 80px);
+}
+
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
