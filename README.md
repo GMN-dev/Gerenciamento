@@ -13,7 +13,11 @@ O **Sistema de Gerenciamento de Hardwares de Computador** é uma aplicação web
 
 ## Capturas de Tela
 
-*Inclua algumas capturas de tela da sua aplicação aqui*
+![image](https://github.com/user-attachments/assets/24e3c30f-cc0f-4c55-b190-a36272d6549b)
+
+
+![image](https://github.com/user-attachments/assets/7bc53ecc-d074-450d-b7f8-a58d2cdbe4a3)
+
 
 ## Tecnologias Utilizadas
 
