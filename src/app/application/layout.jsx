@@ -10,7 +10,7 @@ export default function HeaderLayout({children}){
 
 
     return(<>
-    <div className="flex h-full">
+    <div className="flex h-screen">
         <section className="h-screen flex flex-col">
             <div className=" w-56 h-20 flex justify-center items-center bg-white-primary border-2">
                 <Image src={logo}/>

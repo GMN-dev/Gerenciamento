@@ -11,7 +11,7 @@ export default function MainDashboard(props){
       }, []);
 
     return(<>
-        <section className=" bg-white-secondary p-5 rounded-lg w-2/4 h-full shadow-md">
+        <section className=" bg-white-secondary p-5 rounded-lg w-2/4 shadow-md">
             <div className="mb-6" >
                 <h3 className="font-semibold text-xl text-primary">Manutenções realizadas em {props.year}</h3>
             </div>
